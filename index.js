@@ -10,4 +10,4 @@ const app = express();
 app.listen(8080, () => console.log("Server Started"));
 app.get("/", (req, res) => {res.send("hola putos!")})
 
-//installed : express , mongoose , nodemon , validator
+//installed : express , mongoose , nodemon , validator , slugify
