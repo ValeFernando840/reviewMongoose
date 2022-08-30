@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ValeFernando840/reviewMongoose#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "mongoose": "^6.5.0",
     "slugify": "^1.6.5",
